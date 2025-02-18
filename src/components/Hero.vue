@@ -10,7 +10,7 @@
             <p class="text-2xl sm:text-3xl text-gray-400 mb-8">Software Engineer</p>
 
             <!-- Icons -->
-            <div class="flex justify-center gap-6 mb-12">
+            <!-- <div class="flex justify-center gap-6 mb-12">
             <a href="https://github.com/DroneBreaker" class="text-gray-400 hover:text-purple-400 transition-colors">
               <Github class="w-6 h-6" />
             </a>
@@ -20,13 +20,13 @@
             <a href="mailto:brownierz01@gmail.com" class="text-gray-400 hover:text-purple-400 transition-colors">
               <Mail class="w-6 h-6" />
             </a>
-          </div>
+          </div> -->
         </div>
     </section>
 </template>
 
 <script setup>
-import { Github, Linkedin, Mail, ExternalLink, Send } from 'lucide-vue-next'
+// import { Github, Linkedin, Mail, ExternalLink, Send } from 'lucide-vue-next'
 </script>
 
 <style lang="scss" scoped>
