@@ -1,7 +1,7 @@
 <template>
     <section class="min-h-screen flex flex-col justify-center relative px-4 sm:px-6 lg:px-8">
         <div class="text-center">
-            <h1  class="text-5xl sm:text-7xl font-bold mb-6 tracking-tight">
+            <h1  class="text-5xl sm:text-7xl font-bold mb-4 tracking-tight">
                 <span class="bg-clip-text text-transparent bg-gradient-to-r from-purple-400 to-pink-500">
                   Richard Browne
                 </span>
