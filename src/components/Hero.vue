@@ -1,13 +1,13 @@
 <template>
     <section class="min-h-screen flex flex-col justify-center relative px-4 sm:px-6 lg:px-8">
         <div class="text-center">
-            <h1  class="text-6xl sm:text-3xl font-bold mb-6 tracking-tight">
+            <h1  class="text-3xl sm:text-7xl font-bold mb-6 tracking-tight">
                 <span class="bg-clip-text text-transparent bg-gradient-to-r from-purple-400 to-pink-500">
                   Richard Browne
                 </span>
             </h1>
 
-            <p class="text-2xl sm:text-2xl text-gray-400 mb-8">Software Engineer</p>
+            <p class="text-2xl sm:text-3xl text-gray-400 mb-8">Software Engineer</p>
 
             <!-- Icons -->
             <div class="flex justify-center gap-6 mb-12">
