@@ -7,7 +7,7 @@
                 </span>
             </h1>
 
-            <p class="text-2xl sm:text-3xl text-gray-400 mb-8">Software Engineer</p>
+            <p class="text-2xl sm:text-3xl text-gray-400 mb-4">Software Engineer</p>
 
             <!-- Icons -->
             <div class="flex justify-center gap-6 mb-12">
