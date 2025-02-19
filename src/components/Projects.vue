@@ -25,6 +25,13 @@
                         {{ tag }}
                         </span>
                     </div>
+
+                    <div class="flex justify-between">
+                        <a :href="project.github" class="flex items-center text-gray-400 hover:text-purple-400">
+                            <Github class="w-5 h-5 mr-2" />
+                            Code
+                        </a>
+                </div>
                 </div>
             </div>
         </div>
@@ -33,6 +40,7 @@
 
 <script setup>
 import { ref } from 'vue';
+import  { Github } from 'lucide-vue-next'
 
 // Define props to accept the projects intro from the parent component
 const props = defineProps({
