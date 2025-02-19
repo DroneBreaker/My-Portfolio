@@ -22,6 +22,7 @@
             <a href="mailto:brownierz01@gmail.com" class="text-gray-400 hover:text-purple-400 transition-colors">
               <Mail class="w-6 h-6" />
             </a>
+            
             <a href="/src/assets/richardbrowne.pdf" download="/src/assets/richardbrowne.pdf" class="text-gray-400 hover:text-purple-400 transition-colors">
               <File class="w-6 h-6" />
             </a>

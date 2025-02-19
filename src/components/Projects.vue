@@ -6,7 +6,7 @@
         </h1>
 
         <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 mx-12 cursor-pointer gap-8">
-            <div v-for="project in projects" :key="project.title" class="rounded-xl transition-all bg-gray-900 border-gray-700 mb-4">
+            <div v-for="project in projects" :key="project.title" class="rounded-xl bg-gray-900 border-gray-700 mb-4 transform hover:scale-105 transition-transform duration-300">
                 <img class="h-[17rem] rounded-t-xl w-full" :src="project.image" :alt="project.title">
 
                 <div class="p-6">
