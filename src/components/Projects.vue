@@ -55,7 +55,7 @@ const projects = ref([
     { 
         title: 'Travel Booking App', 
         description: 'A travel booking application that was built with Flutter and Firebase.', 
-        image: '/src/assets/travel.jpg', 
+        image: '/src/assets/images/travel.jpg', 
         tags: ['Flutter', 'Firebase'],
         github: 'https://github.com/DroneBreaker/Flutter-Travel-Booking-App' 
     },
@@ -63,7 +63,7 @@ const projects = ref([
     { 
         title: 'Invoicing App', 
         description: 'An invoicing application that was built with Flutter and Golang.', 
-        image: '/src/assets/invoicing.jpg', 
+        image: '/src/assets/images/invoicing.jpg', 
         tags: ['Flutter', 'Golang'], 
         github: 'https://github.com/DroneBreaker/Flutter-Invoice-App' 
     },
@@ -71,7 +71,7 @@ const projects = ref([
     { 
         title: 'Admin Dashboard', 
         description: 'An ongoing admin dashboard with Vue and Golang.', 
-        image: '/src/assets/admin.avif', 
+        image: '/src/assets/images/admin.avif', 
         tags: ['Vue', 'Golang'], 
         github: 'https://github.com/DroneBreaker/Admin-Dashboard-App' 
     },
