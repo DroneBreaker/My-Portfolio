@@ -1,10 +1,12 @@
 <script setup>
 import Hero from './components/Hero.vue'
+import Projects from './components/Projects.vue'
 </script>
 
 <template>
   <div class="bg-black h-[100vh] text-gray-100">
     <Hero/>
+    <Projects/>
   </div>
 </template>
 
